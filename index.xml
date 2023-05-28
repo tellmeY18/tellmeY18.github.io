@@ -5,6 +5,16 @@
     <link>https://tellmeY18.github.io/</link>
     <description>Recent content in Home on tellMeY</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tellmeY18.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2023 15:51:28 +0530</lastBuildDate><atom:link href="https://tellmeY18.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Hugo</title>
+      <link>https://tellmeY18.github.io/posts/learning-hugo/</link>
+      <pubDate>Wed, 24 May 2023 15:51:28 +0530</pubDate>
+      
+      <guid>https://tellmeY18.github.io/posts/learning-hugo/</guid>
+      <description>Vacation season is here, and I&amp;rsquo;ve seen my peers posting their memories as blog posts on various platforms. Journaling was on the list of things to do for me this year, and as with almost everything else, I struggled with consistency and had to let go of journaling in Mastodon halfway. Blogs are usually fun to read, and the good ones will never bore you with depressing content. The primary AIM of setting up this blog post is to familiarize myself with the set of tools a developer should have.</description>
+    </item>
+    
   </channel>
 </rss>
