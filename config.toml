@@ -41,11 +41,11 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     name = 'Posts'
     url = '/posts/'
     weight = 20
-  #[[menu.main]]
-  #  pageRef="about"
-  #  name = 'About'
-  #  url = '/about/'
-  #  weight = 30
+  [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
 
 [params]
   sitename = "tellMeY"
