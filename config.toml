@@ -70,6 +70,37 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   name = "Vysakh Premkumar"
   description = "I'm an engineering student based in Calicut. My focus area for the past few years has been GNU /Linux computing and decentralized social networks. "
 
+[params.page]
+    [params.page.share]
+      enable = false
+    [params.page.math]
+      enable = false
+    [params.page.comment]
+      enable = true
+      [params.page.comment.telegram]
+        enable = false
+        siteID = "K-lCQVu-"
+        limit = 10
+        color = ""
+        colorful = true
+        dislikes = false
+        outlined = false
+      [params.page.comment.giscus]
+        enable = true
+        repo = "tellmeY18/tellmeY18.github.io"
+        repoId = "R_kgDOJoc_Mg"
+        category = "General"
+        categoryId = "DIC_kwDOJoc_Ms4CWy11"
+        # automatically adapt the current theme i18n configuration when empty
+        lang = ""
+        mapping = "pathname"
+        reactionsEnabled = "1"
+        emitMetadata = "0"
+        inputPosition = "top"
+        lazyLoading = false
+        lightTheme = "light"
+        darkTheme = "dark"
+
 # Allow to override webmanifest options
 [params.webmanifest]
   name = "sitename" # will use "params.sitename" or "title" by default
@@ -110,3 +141,4 @@ url = "https://gitlab.com/vysakh_b190622ec"
 #endLevel = 4 # ToC ends at H4
 #ordered = false # generates <ul> instead of <ol>
 #
+
