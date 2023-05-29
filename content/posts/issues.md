@@ -1,7 +1,7 @@
 ---
 title: "How I moved on from my Xs and reasons why you should do the same"
 date: 2023-05-29T01:16:50+05:30
-draft: true
+draft: false 
 ---
 
 ![](/Posts/issues/cap.avif)\
