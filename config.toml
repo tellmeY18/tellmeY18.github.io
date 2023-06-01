@@ -42,11 +42,15 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     url = '/posts/'
     weight = 20
   [[menu.main]]
-    pageRef="about"
-    name = 'About'
+    pageref="about"
+    name = 'about'
     url = '/about/'
     weight = 30
-
+  [[menu.main]]
+    pageref="projects"
+    name = 'Projects'
+    url = '/projects/'
+    weight = 30
 [params]
   sitename = "tellMeY"
   defaultColor = "dark" # set color mode: dark, light, auto
