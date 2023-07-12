@@ -138,6 +138,10 @@ url = "https://www.instagram.com/_y___h/"
 name = "gitlab"
 url = "https://gitlab.com/vysakh_b190622ec"
 
+[[params.socialIcons]]
+name = "threads"
+url = "https://threads.net/@_y___h"
+
 
 
 #[tableOfContents]
