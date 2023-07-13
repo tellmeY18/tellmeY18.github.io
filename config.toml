@@ -70,7 +70,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 [params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "tellMeY"
+  intro = "Hey I'm Vysakh"
   name = "Vysakh Premkumar"
   description = "I'm an engineering student based in Calicut. My focus area for the past few years has been GNU /Linux computing and decentralized social networks. "
 
