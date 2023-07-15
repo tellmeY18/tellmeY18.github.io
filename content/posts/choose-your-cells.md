@@ -3,7 +3,7 @@ title: "Choose Your Cells"
 date: 2023-07-16T03:06:58+05:30
 author: Vysakh Premkumar 
 description: " When developing software for the community, it is crucial to involve them as much as possible during the building and running phases."
-og_image: "/Posts/Choose/cell.webp" 
+og_image: "https://tellmey18.github.io/Posts/Choose/cell.webp" 
 ---
 
 ![](/Posts/Choose/cell.webp)
