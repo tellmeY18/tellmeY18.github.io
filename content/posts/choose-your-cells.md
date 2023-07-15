@@ -17,3 +17,7 @@ You are likely aware of why a randomized allotment system is not ideal, especial
 
 
 This cycle is not new to me. I've been in it before and have always ended up with loss everytime in the end. Although I am not planning to apply for a hostel this year, I wholeheartedly stand in solidarity with the SAC and the students in their resistance against the unjust enforcement of the hostel allotment policy. I wish them success in this stand.
+
+
+![](/Posts/Choose\ Your\ Cell/solidarity.jpeg)
+
