@@ -17,7 +17,8 @@ When developing software for the community, it is crucial to involve them as muc
 You are likely aware of why a randomized allotment system is not ideal, especially for final year students. Students have already voiced their reasons for opposing it. The Student Affairs Council (SAC) has even instructed the B20 students to abstain from participating in the upcoming allotment process. However, as usual, the administration has fostered a sense of distrust between the SAC, students, and themselves by stating, "Those who do not wish to participate can opt out of the allotment," which coerces students to withdraw due to fear.
 ![](/Posts/Choose/loss.webp)
 
-This cycle is not new to me. I've been in it before and have always ended up with loss everytime in the end. Although I am not planning to apply for a hostel this year, I wholeheartedly stand in solidarity with the SAC and the students in their resistance against the unjust enforcement of the hostel allotment policy. I wish them success in this stand.
+This cycle is not new to me. I've been in it before and have always ended up with loss everytime in the end. Although I am not planning to apply for a hostel this year, I wholeheartedly stand in solidarity with the SAC and the students in their resistance against the unjust enforcement of the hostel allotment policy.
+
 
 
 ![](/Posts/Choose/solidarity.jpeg)
