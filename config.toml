@@ -42,7 +42,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     url = '/posts/'
     weight = 20
   [[menu.main]]
-    pageref="about"
+    pageref="About"
     name = 'about'
     url = '/about/'
     weight = 30
