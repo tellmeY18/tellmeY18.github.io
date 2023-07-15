@@ -7,7 +7,7 @@ draft: false
 
 I have always supported the digitization of various routine processes on campus, including the allocation of hostel rooms. Throughout my time at NITC, I believed that technology could play a crucial role in bridging the gap between the administration and students. However, the recent implementation of the Hostel app is a prime example of how such tools can be poorly executed.
 
-This isn't the first time we have seen software tools being developed for our own use on campus. From the mess dues app to the registration portal, the developer and HAC (Hostel Advisory Committee) communities have attempted to address the needs of the student body.
+This isn't the first time we have seen software tools being developed for our own use on campus. From the mess dues app to the registration portal, the developer and HAC' communities have attempted to address the needs of the student body.
 
 When developing software for the community, it is crucial to involve them as much as possible during the building and running phases. After all, the ultimate goal of these tools is to provide convenience to all parties involved.
 
