@@ -1,14 +1,7 @@
 <head>
-  {{ if .IsPage }}
-  {{ if .Params.og_image }}
-  <meta property="og:image" content="{{ .Params.og_image | absURL }}" />
-  {{ end }}
-  <meta property="og:title" content="{{ .Title }}" />
-  <meta property="og:description" content="{{ .Description }}" />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="{{ .Permalink }}" />
-
+{{ partial "opengraph" . }}
 </head>
+
 {{ define "main" }}
 <div class="wrapper post">
     <main class="page-content" aria-label="Content">
