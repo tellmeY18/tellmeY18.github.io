@@ -1,4 +1,3 @@
-{{ define "main" }}
 <head>
   {{ if .IsPage }}
   {{ if .Params.og_image }}
@@ -10,7 +9,7 @@
   <meta property="og:url" content="{{ .Permalink }}" />
 
 </head>
-
+{{ define "main" }}
 <div class="wrapper post">
     <main class="page-content" aria-label="Content">
         <article>
