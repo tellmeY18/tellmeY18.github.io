@@ -3,7 +3,7 @@ title: "Choose Your Cells"
 date: 2023-07-16T03:06:58+05:30
 author: Vysakh Premkumar 
 description: " When developing software for the community, it is crucial to involve them as much as possible during the building and running phases."
-og_image: "https://tellmey18.github.io/Posts/Choose/cell.webp" 
+og_image: "/Choose/cell.webp" 
 ---
 
 ![](/Posts/Choose/cell.webp)
@@ -17,8 +17,7 @@ When developing software for the community, it is crucial to involve them as muc
 You are likely aware of why a randomized allotment system is not ideal, especially for final year students. Students have already voiced their reasons for opposing it. The Student Affairs Council (SAC) has even instructed the B20 students to abstain from participating in the upcoming allotment process. However, as usual, the administration has fostered a sense of distrust between the SAC, students, and themselves by stating, "Those who do not wish to participate can opt out of the allotment," which coerces students to withdraw due to fear.
 ![](/Posts/Choose/loss.webp)
 
-This cycle is not new to me. I've been in it before and have always ended up with loss everytime in the end. Although I am not planning to apply for a hostel this year, I wholeheartedly stand in solidarity with the SAC and the students in their resistance against the unjust enforcement of the hostel allotment policy.
-
+This cycle is not new to me. I've been in it before and have always ended up with loss everytime in the end. Although I am not planning to apply for a hostel this year, I wholeheartedly stand in solidarity with the SAC and the students in their resistance against the unjust enforcement of the hostel allotment policy.  
 
 
 ![](/Posts/Choose/solidarity.jpeg)
