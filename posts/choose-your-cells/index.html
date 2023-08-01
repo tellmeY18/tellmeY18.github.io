@@ -190,7 +190,16 @@ stroke-linejoin="round" class="feather feather-home">
                 <footer class="footer">
 	<script data-goatcounter="https://hell.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
+<div>Number of visitors: <div id="stats"></div></div>
 
+<script>
+    var r = new XMLHttpRequest();
+    r.addEventListener('load', function() {
+        document.querySelector('#stats').innerText = JSON.parse(this.responseText).count
+    })
+    r.open('GET', 'https://hell.goatcounter.com/counter/' + encodeURIComponent(location.pathname) + '.json')
+    r.send()
+</script>
     <span class="footer_item"> </span>
     &nbsp;
 
@@ -286,7 +295,16 @@ I have always supported the digitization of various routine processes on campus,
 <footer class="footer">
 	<script data-goatcounter="https://hell.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
+<div>Number of visitors: <div id="stats"></div></div>
 
+<script>
+    var r = new XMLHttpRequest();
+    r.addEventListener('load', function() {
+        document.querySelector('#stats').innerText = JSON.parse(this.responseText).count
+    })
+    r.open('GET', 'https://hell.goatcounter.com/counter/' + encodeURIComponent(location.pathname) + '.json')
+    r.send()
+</script>
     <span class="footer_item"> </span>
     &nbsp;
 
