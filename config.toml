@@ -51,6 +51,16 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     name = 'Projects'
     url = '/projects/'
     weight = 30
+  [[menu.main]]
+    weight = 35
+    identifier = "resume"
+    pre = ""
+    post = '<i class="fa fa-external-link" aria-hidden="true"></i>'
+    name = "resume"
+    url = "/resume.pdf"
+    title = ""
+
+
 [params]
   sitename = "tellMeY"
   defaultColor = "dark" # set color mode: dark, light, auto
