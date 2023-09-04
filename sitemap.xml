@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tellmeY18.github.io/posts/cloudedbysmoke/</loc>
-    <lastmod>2023-08-01T23:28:08+05:30</lastmod>
+    <loc>https://tellmeY18.github.io/posts/fridaynightfoss/</loc>
+    <lastmod>2023-08-16T13:53:40+05:30</lastmod>
   </url><url>
     <loc>https://tellmeY18.github.io/</loc>
-    <lastmod>2023-08-01T23:28:08+05:30</lastmod>
+    <lastmod>2023-08-16T13:53:40+05:30</lastmod>
   </url><url>
     <loc>https://tellmeY18.github.io/posts/</loc>
+    <lastmod>2023-08-16T13:53:40+05:30</lastmod>
+  </url><url>
+    <loc>https://tellmeY18.github.io/posts/cloudedbysmoke/</loc>
     <lastmod>2023-08-01T23:28:08+05:30</lastmod>
   </url><url>
     <loc>https://tellmeY18.github.io/posts/choose-your-cells/</loc>
@@ -24,6 +27,9 @@
     <lastmod>2023-05-29T01:16:50+05:30</lastmod>
   </url><url>
     <loc>https://tellmeY18.github.io/pages/about/</loc>
+    <lastmod>2023-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tellmeY18.github.io/pages/sysinfo/</loc>
     <lastmod>2023-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tellmeY18.github.io/posts/learning-hugo/</loc>
